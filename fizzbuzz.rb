@@ -1,4 +1,4 @@
-require_relative './spec/fizzbuzz_spec.rb:2:in'
+require_relative './spec/fizzbuzz_spec.rb'
 
 def fizzbuzz(int)
   if int % 3 == 0 && int % 5 == 0 
