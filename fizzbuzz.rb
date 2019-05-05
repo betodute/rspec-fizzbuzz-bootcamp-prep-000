@@ -8,3 +8,4 @@ def fizzbuzz(int)
   else 
     "Nil"
   end
+end
